@@ -1,9 +1,10 @@
 {
     "version": 3,
-    "mappings": "ACAA,AAAA,CAAC,CAAC;EACE,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,gBAAgB,EAAE,KAAK;CAC1B",
+    "mappings": "ACAA,AAAA,CAAC,CAAC;EACE,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,gBAAgB,EAAE,KAAK;CAC1B;;ACJD,AAAA,EAAE,CAAC;EACC,KAAK,EAAE,OAAO;CACjB;;AAED,AAAA,CAAC,CAAC;EACE,KAAK,EAAE,UAAU;CACpB",
     "sources": [
         "../scss/stylesheet.scss",
-        "../scss/_reset.scss"
+        "../scss/_reset.scss",
+        "../scss/_fonts.scss"
     ],
     "names": [],
     "file": "stylesheet.css"
