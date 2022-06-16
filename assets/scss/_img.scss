@@ -14,3 +14,12 @@
     width: 150px;
     transform: translate(0px, -10px);
 }
+
+.imgCW{
+    transition: all .3s;
+  }
+  
+.imgCW:hover{
+    width: 120px;
+    transform: translate(0px, -10px);
+}

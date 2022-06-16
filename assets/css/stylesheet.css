@@ -29,12 +29,12 @@ section {
 
 h1 {
   color: #f1da63;
-  font-size: 100px;
+  font-size: 120px;
 }
 
 h3 {
   color: #f1da63;
-  font-size: 50px;
+  font-size: 80px;
 }
 
 p {
@@ -67,6 +67,15 @@ p {
 
 .imgC:hover {
   width: 150px;
+  transform: translate(0px, -10px);
+}
+
+.imgCW {
+  transition: all .3s;
+}
+
+.imgCW:hover {
+  width: 120px;
   transform: translate(0px, -10px);
 }
 /*# sourceMappingURL=stylesheet.css.map */
