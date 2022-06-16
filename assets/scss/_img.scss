@@ -1,0 +1,16 @@
+.imgP{
+    filter: grayscale(100%);
+}
+  
+.imgP:hover{
+    filter: grayscale(0%);
+}
+
+.imgC{
+    transition: all .3s;
+  }
+  
+.imgC:hover{
+    width: 150px;
+    transform: translate(0px, -10px);
+}
