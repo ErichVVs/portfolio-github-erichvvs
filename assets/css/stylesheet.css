@@ -61,6 +61,14 @@ p {
   filter: grayscale(0%);
 }
 
+.imgPG {
+  filter: grayscale(0%);
+}
+
+.imgPG:hover {
+  filter: grayscale(100%);
+}
+
 .imgC {
   transition: all .3s;
 }
